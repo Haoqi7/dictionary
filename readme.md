@@ -21,7 +21,7 @@
 
     - Windows：
     
-        下载[release](https://github.com/seast19/english-local-dictionary/releases)下的zip包，解压运行exe文件即可查询
+        下载release下的zip包，解压运行exe文件即可查询
     
     - linux:
     
